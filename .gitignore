@@ -26,6 +26,3 @@ faiss_cache/
 # OS/editor
 .DS_Store
 .vscode/
-
-# Large/local data artifacts
-research_paper.pdf

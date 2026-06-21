@@ -37,8 +37,6 @@ TAVILY_API_KEY=
 
 You can also adjust model defaults in `.env` (`AZURE_CHAT_MODEL`, `OPENAI_MODEL`, `AZURE_EMBEDDING_DEPLOYMENT`, etc.).
 
-3. Add your source PDF to the project root as `research_paper.pdf` (this file is intentionally gitignored for a clean public repo).
-
 ## Run Notebook
 
 Open `multi_agent_rag_notebook.ipynb` and run cells in order.
