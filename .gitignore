@@ -18,7 +18,6 @@ env/
 
 # Local environment and secrets
 .env
-.env.*
 !.env.example
 
 # Local vector/cache artifacts
